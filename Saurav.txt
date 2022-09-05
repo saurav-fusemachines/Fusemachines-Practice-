@@ -1,3 +1,10 @@
 Hello, I am Saurav Karki.
 I currently work in Fusemachines.
+<<<<<<< Updated upstream
 My designation is Data Engineeer Associate Trainee.
+=======
+My designation is Data Engineeer Associate Trainee.
+I am From Bhairahawa.
+
+stash added
+>>>>>>> Stashed changes
