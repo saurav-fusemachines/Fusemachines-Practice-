@@ -1,1 +1,2 @@
 This is ignored file.
+Adding second line in igonored file
